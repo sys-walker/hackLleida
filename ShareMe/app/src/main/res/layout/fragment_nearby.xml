@@ -8,16 +8,17 @@
 
 
     <!-- aixo hauria de ser el motor de google maps pero per ferho mes visual-->
+
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="387dp"
-        android:layout_height="245dp"
+        android:layout_width="384dp"
+        android:layout_height="213dp"
         android:layout_marginStart="12dp"
         android:src="@drawable/samplemap"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.751" />
+        app:layout_constraintVertical_bias="0.797" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/idRVCourse"

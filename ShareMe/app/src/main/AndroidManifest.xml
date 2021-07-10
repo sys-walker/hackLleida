@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShareMe">
+        <activity android:name=".ui.messages.ChatExample"></activity>
         <activity
             android:name=".HomeHostActivity"
-            android:label="@string/title_activity_home_host"></activity>
+            android:label="@string/title_activity_home_host" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
