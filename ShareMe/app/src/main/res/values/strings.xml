@@ -2,4 +2,11 @@
     <string name="app_name">Share Me</string>
     <string name="login_button">Inicia Sessió</string>
     <string name="register_button">Registrarse</string>
+    <string name="title_activity_home_host">MainActivity</string>
+    <string name="title_home">Proximitat</string>
+    <string name="title_dashboard">Cerca</string>
+    <string name="title_notifications">Missatges</string>
+    <string name="hint_username">Nom usuari</string>
+    <string name="hint_password">Contrasenya</string>
+    <string name="hint_password_2">Confirma la teva contrasenya</string>
 </resources>

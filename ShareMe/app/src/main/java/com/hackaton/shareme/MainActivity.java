@@ -1,5 +1,6 @@
 package com.hackaton.shareme;
 
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -30,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent nextActivity;
         switch (v.getId()){
             case R.id.login_button:
-                nextActivity= new Intent(this,HomeActivity.class);
+                nextActivity= new Intent(this,HomeHostActivity.class);
                 startActivity(nextActivity);
                 finish();
                 break;
