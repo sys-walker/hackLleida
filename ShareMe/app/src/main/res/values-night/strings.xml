@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Share Me</string>
     <string name="login_button">Inicia Sessió</string>
     <string name="register_button">Registrarse</string>
 </resources>
